@@ -79,8 +79,6 @@ _July 2025 – Aug 2025_
 
 ## 👥 Leadership & Volunteering
 
-- **Student Coordinator**, TinkerHub  
-- **Event Coordinator**, IEDC  
 - **Volunteer**, IEEE & ISTE
 
 ---
