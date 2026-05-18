@@ -1,111 +1,144 @@
-<h1 align="center">Hi, I'm Sreeharini J 👩‍💻</h1>
+<h1 align="center">Sreeharini J</h1>
 
 <p align="center">
-  <b>Computer Science Undergraduate | AI/ML Enthusiast | Passionate Problem Solver</b><br>
-  📍 Palakkad, Kerala &nbsp; | &nbsp; 📧 <a href="mailto:sreeharinij@gmail.com">sreeharinij@gmail.com</a><br>
-  🌐 <a href="https://linkedin.com/in/sreeharini-j-233a01300" target="_blank">LinkedIn</a> • 
-  <a href="https://github.com/sreeharinij" target="_blank">GitHub</a>
+  B.Tech CSE · AI & ML Honors · NSS College of Engineering, Palakkad<br/>
+  CGPA 9.76 &nbsp;·&nbsp; Infosys &amp; IBM Intern &nbsp;·&nbsp; NPTEL Deep Learning Top 5%
+</p>
+
+<p align="center">
+  <a href="mailto:sreeharinij@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/sreeharini-j"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://sreeharinij.github.io/sreeharinij"><img src="https://img.shields.io/badge/Portfolio-09090f?style=flat-square&logo=githubpages&logoColor=white"/></a>
 </p>
 
 ---
 
-## 🚀 About Me
-
-I’m an ambitious and top-performing B.Tech Computer Science student from NSS College of Engineering (CGPA: **9.9/10** — Department Topper). I love solving real-world problems using **AI/ML, NLP**, and software engineering. Currently exploring new opportunities in tech to grow and contribute meaningfully.
+I build things at the intersection of machine learning, backend engineering, and applied NLP. Currently in my third year at NSS College of Engineering, I've shipped production-grade systems — from Spring Boot microservice backends to offline RAG pipelines to cross-platform Flutter apps — while interning at Infosys and IBM.
 
 ---
 
-## 🧠 Technical Skills
+## Featured Projects
 
-### 💻 Languages & Technologies
+### 🏥 CareChain &nbsp;·&nbsp; [github](https://github.com/SreehariniJ/carechain)
+> Hospital resource management system built on 4 Spring Boot microservices
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+JWT authentication · role-based access (Patient / Doctor / Admin) · REST APIs for OPD queues, bed management, and appointments · Spring Security · JPA/Hibernate · MySQL · unit-tested with JUnit & Mockito
 
-### 🌐 Web & Database
-
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 🔧 Tools & Platforms
-
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+`Java` `Spring Boot` `Spring Security` `MySQL` `Microservices` `JUnit` `Mockito`
 
 ---
 
-## 💼 Projects
+### 🤖 Offline AI Debugger &nbsp;·&nbsp; [github](https://github.com/SreehariniJ/debugger)
+> Offline code debugging assistant — no cloud required
 
-### 🗂️ Employee Management System
-**Tech:** Java Swing, MySQL, JDBC, Maven  
-• Desktop app to manage 100+ employee records  
-• Features: Advanced CRUD, search, reporting  
-• Reduced data retrieval time by 40%  
-• Version control & Agile workflow using Git
+4-stage RAG pipeline · Qwen-Coder · SQLite-backed code indexing · **<5s response latency** across 50+ multi-language test cases
 
-### 📄 Resume Analyzer
-**Tech:** Python, Scikit-learn, NLTK  
-• NLP-based tool to match resumes with job descriptions  
-• Calculates skill gaps and match percentage  
-• Uses vectorized scoring and text analysis
-
-### 💬 Sentilytics
-**Tech:** Python, Data Visualization, ML  
-• Sentiment analysis system for social media posts  
-• Categorizes content as Positive/Negative/Neutral  
-• Integrated visual insights using plots & charts
+`Python` `RAG` `Qwen-Coder` `SQLite`
 
 ---
 
-## 🌐 Experience
+### 🎯 Edu2Job &nbsp;·&nbsp; [github](https://github.com/SreehariniJ/Edu2Job) &nbsp;·&nbsp; [live](https://sreeharini.pythonanywhere.com)
+> AI-powered career prediction platform
 
-### 💻 AI & Cloud Technologies Intern — IBM SkillsBuild (via Edunet Foundation)  
-📅 July 2025 – Aug 2025  
-• Hands-on experience with IBM Cloud, AI, ML tools  
-• Built practical cloud solutions and deployed ML models  
-• Gained deep understanding of scalable architectures
+Random Forest classifier · **F1-score 0.83** · Flask REST backend · JWT auth · prediction history tracking · interactive analytics dashboard
 
----
-
-## 📜 Certifications
-
-- 🧠 Python Technology Stack — Infosys
-- 🔍 Cyber & Data Analytics — Deloitte Forage
-- 📘 Joy of Computing using Python — NPTEL
+`Python` `Flask` `scikit-learn` `SQLAlchemy` `JavaScript` `Bootstrap`
 
 ---
 
-## 🏆 Achievements
+### 🚨 Herself &nbsp;·&nbsp; [github](https://github.com/SreehariniJ/herself) &nbsp;·&nbsp; 🏆 Top 300 — Tink Her Hack 4.0
+> Cross-platform women's safety app
 
-- 🥇 **Department Topper** (CGPA: 9.9/10)
-- 🏅 **Merit Scholarship** (2023–2025)
-- 🥈 **2nd Prize**, Intercollege Technical Fest (Feb 2024)
+AI-powered SOS · voice-triggered emergency detection · real-time GPS alerts · emergency assistance — selected as Top 300 Maker statewide
+
+`Flutter` `Dart` `GPS` `AI`
 
 ---
 
-## 📊 GitHub Stats
+### 💬 Sentilytics &nbsp;·&nbsp; [github](https://github.com/SreehariniJ/Sentilytics)
+> NLP-powered real-time sentiment analysis
+
+Text and CSV input · word clouds · trend graphs · interactive visual dashboard
+
+`Python` `NLP` `Streamlit` `pandas`
+
+---
+
+### 🔬 Plagiarism Intelligence &nbsp;·&nbsp; [github](https://github.com/SreehariniJ/plagiarism-intelligence)
+> NLP plagiarism detection — IBM internship project
+
+IBM Granite LLMs on Watsonx.ai · serverless pipelines via IBM Cloud Functions · REST API integration
+
+`Python` `IBM Granite` `Watsonx.ai` `Cloud Functions`
+
+---
+
+### 🎨 AirCanvas &nbsp;·&nbsp; [github](https://github.com/SreehariniJ/AirCanvas)
+> Gesture-controlled drawing application using computer vision
+
+`TypeScript` `Computer Vision`
+
+---
+
+### 🏥 Medimate &nbsp;·&nbsp; [github](https://github.com/SreehariniJ/Medimate)
+> Healthcare companion application
+
+`MIT License`
+
+---
+
+### 📊 Applied ML — Titanic &nbsp;·&nbsp; [github](https://github.com/SreehariniJ/Applied-ML-Titanic-Dataset)
+> End-to-end ML project: EDA · feature engineering · model comparison · evaluation
+
+`Python` `scikit-learn` `pandas`
+
+---
+
+### 🔒 Premier Bidder Live *(private)*
+> Live bidding platform — competition project
+
+`TypeScript`
+
+---
+
+## Skills
+
+| | |
+|---|---|
+| **Languages** | Java · Python · C · C++ · JavaScript · Dart · SQL |
+| **Backend** | Spring Boot · Spring MVC · Spring Security · Flask · Node.js · REST APIs |
+| **Frontend / Mobile** | React.js · Flutter · Bootstrap · Streamlit |
+| **AI / ML** | scikit-learn · PyTorch · TensorFlow · LangChain · RAG · NLP · Transformers |
+| **Databases** | MySQL · PostgreSQL · SQLite · JPA/Hibernate · SQLAlchemy |
+| **Cloud & DevOps** | IBM Watsonx.ai · AWS SageMaker · IBM Cloud · Docker · Git · Linux |
+| **Testing** | JUnit · Mockito |
+| **CS Core** | DSA · OOP · DBMS · Operating Systems · Computer Networks |
+
+---
+
+## Experience
+
+**AI & Machine Learning Intern — Infosys Springboard** &nbsp;·&nbsp; Aug – Oct 2025
+- Built Random Forest and Gradient Boosting models for student outcome prediction; improved performance via feature engineering and hyperparameter tuning
+- Maintained codebase with Git across structured evaluation and testing workflows
+
+**AI & Cloud Infrastructure Intern — IBM SkillsBuild** &nbsp;·&nbsp; Jul – Aug 2025
+- Developed NLP-based plagiarism detection using IBM Granite LLMs on Watsonx.ai
+- Deployed serverless AI pipelines on IBM Cloud Functions with REST API integration
+
+---
+
+## Achievements
+
+- 🥇 **NPTEL Deep Learning** (IIT Ropar) — Top 5% nationally · 90/100
+- 🏆 **Top 300 Maker** — Tink Her Hack 4.0 · Women's Safety Innovation · 2026
+- 📈 **CGPA 9.76 / 10** — B.Tech CSE · APJ Abdul Kalam Technological University
+
+---
+
+## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sreeharinij&show_icons=true&theme=radical" height="160"/>
-  <img src="https://streak-stats.demolab.com/?user=sreeharinij&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SreehariniJ&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://streak-stats.demolab.com/?user=SreehariniJ&theme=tokyonight&hide_border=true" height="160"/>
 </p>
-
----
-
-## 📫 Let’s Connect!
-
-- 📧 Email: [sreeharinij@gmail.com](mailto:sreeharinij@gmail.com)  
-- 🔗 LinkedIn: [linkedin.com/in/sreeharini-j-233a01300](https://linkedin.com/in/sreeharini-j-233a01300)  
-- 💻 GitHub: [github.com/sreeharinij](https://github.com/sreeharinij)
-
----
-
-> _"Always learning, always building. Let's code the future together."_ ✨
